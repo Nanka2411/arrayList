@@ -25,6 +25,8 @@ public class Main {
         names.remove("Lux");
         names.remove("Matt");
 
+
+        //this is to output the names (displays the names on the scereen)
         System.out.println(names);
 
 
